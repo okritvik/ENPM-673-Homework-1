@@ -40,6 +40,11 @@ Least Squares  |  Total Least Squares | Covariance |
   <img src="https://user-images.githubusercontent.com/40200916/186567257-7ab757a5-883f-49cb-a556-af57fa220186.png" width="50%">
 </p>
 
+### S, U, Vt Matrices (SVD)
+S | U | Vt |
+:-------------------------:|:-------------------------:|:-------------------------:
+<img src= "https://user-images.githubusercontent.com/40200916/186567716-e7cc2657-3a13-4ccd-9b94-10d8d0259dc8.png"> | <img src="https://user-images.githubusercontent.com/40200916/186567758-53ffe1af-b05d-4a6c-8933-ff161188e69b.png"> | <img src="https://user-images.githubusercontent.com/40200916/186567801-7f16a8e0-d2c3-40f1-b610-d85b85ae6c39.png" width="100%"> 
+
 ## Note 
 * The outputs are displayed in the terminal for this question. A, S, Vt, U and H matrices are printed on the terminal.
 * The report for the Homework is in the report folder.
